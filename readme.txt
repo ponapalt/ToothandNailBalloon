@@ -20,6 +20,7 @@ License : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.ja
 ■更新履歴
 2020/6/24 v1.00 First Release
 2020/6/24 v1.01 Address Bar追加・サムネイル追加
+2020/6/24 v1.02 k2/k3(\b[2]for\1)追加
 
 ■連絡先・配布サイトとか
 http://ms.shillest.net/
